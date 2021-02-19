@@ -1,4 +1,4 @@
-##The data is based on California Census in 1990
+The data is based on California housing
 
 ##Project step
 Data cleaning (missing data, outliers, data errors)
