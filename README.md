@@ -1,7 +1,7 @@
 The data is based on California housing
-# Python based Analysis of California housing data
+# Python based Analysis of California Housing Data
 
-# Project step
+# Project steps
 
 1. Data cleaning including missing data detection and filtering, outliers removals,and identification of other errors in the dataset.
 2. Basic stats (min, max, std, median, etc.) using boxplot
