@@ -10,4 +10,4 @@ The data is based on California housing
   a. Linear Regression, 
   b. Decision Tree, and 
   c. Random Forest
-![Optional Text](../master/myFolder/califonia.png)
+![Optional Text](https://github.com/asiat2/Califonia-Housing-Data/blob/main/califonia.png)
