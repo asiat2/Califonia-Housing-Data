@@ -1,4 +1,4 @@
-The data is based on California housing
+
 # Python based Analysis of California Housing Data
 
 # Project steps
@@ -11,3 +11,4 @@ The data is based on California housing
   b. Decision Tree, and 
   c. Random Forest
 ![Optional Text](https://github.com/asiat2/Califonia-Housing-Data/blob/main/califonia.png)
+![Optional Text](https://github.com/asiat2/Califonia-Housing-Data/blob/main/correlation.png)
